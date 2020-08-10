@@ -32,7 +32,7 @@ We show an example of annotation of a review from the TripR-2020 dataset:
 | ----------- | ----------- | ----------- | ----------- |
 | Consistently good.	| *implicit* 	| Restaurant	| positive |
 | I have been coming for years.	| *implicit* 	| Restaurant	| positive |
-| Always good atmosphere and fun people watching.	| Atmosphere 	| Ambience	| positive |
+| Always good atmosphere and fun people watching.	| atmosphere 	| Ambience	| positive |
 | The food is always good and quick.	| food 	| Food	| positive |
 
 The review is split into sentences. First column presents the text of the sentence. Second column is referred to the aspect terms discussed in the sentence. The aspect is *implicit* when the aspect term is not explicitly mentioned in the sentence. Third column is the aspect category to which the aspect term is categorized. Fourth column is the sentiment polarity about each aspect category.
