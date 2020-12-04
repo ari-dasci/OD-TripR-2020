@@ -46,6 +46,16 @@ The review is split into sentences. First column presents the text of the senten
 Please use the following citation:
 
 [Zuheros, C., Martínez-Cámara, E., Herrera-Viedma, E., & Herrera, F. Sentiment Analysis based Multi-Person Multi-criteria Decision Making methodology using natural language processing and deep learning for smarter decision aid. Case study of restaurant choice using TripAdvisor reviews. Information Fusion 68 (2021) 22-36](https://doi.org/10.1016/j.inffus.2020.10.019)
+```
+@article{zuheros2021SAMpMcDM,
+   author = "Cristina Zuheros and Eugenio Martínez-Cámara and Enrique Herrera-Viedma and Francisco Herrera",
+   title = "Sentiment Analysis based Multi-Person Multi-criteria Decision Making methodology using natural language processing and deep learning for smarter decision aid.   Case study of restaurant choice using TripAdvisor reviews",
+   journal = "Information Fusion",
+   volume = "68",
+   pages = "22 - 36",
+   year = "2021",
+}
+```
 
 
 ## Contact
