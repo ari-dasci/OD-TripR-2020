@@ -1,0 +1,1027 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<Reviews>
+  <Review rid="d680501-g186338-UID_e1-REW0">
+    <sentences>
+      <sentence id="d680501-g186338-UID_e1-REW0:0">
+        <text>Fantastic view...good food...research before you book!</text>
+        <Opinions>
+          <Opinion target="view" category="LOCATION#GENERAL" polarity="positive" from="from..." to="to..."/>
+          <Opinion target="food" category="FOOD#QUALITY" polarity="positive" from="from..." to="to..."/>
+        </Opinions>
+      </sentence>
+      <sentence id="d680501-g186338-UID_e1-REW0:1">
+        <text>Restaurant or brasserie? Restaurant (fine dining) will be circa £60 for food alone (3 courses), Brasserie circa £30</text>
+        <Opinions>
+          <Opinion target="Restaurant" category="RESTAURANT#GENERAL" polarity="positive" from="from..." to="to..."/>
+        </Opinions>
+      </sentence>
+      <sentence id="d680501-g186338-UID_e1-REW0:2">
+        <text> The fantastic view is the same so it depends on your reson for going...dinner for 2, group dinner, business etc</text>
+        <Opinions>
+          <Opinion target="view" category="LOCATION#GENERAL" polarity="positive" from="from..." to="to..."/>
+        </Opinions>
+      </sentence>
+      <sentence id="d680501-g186338-UID_e1-REW0:3">
+        <text> I tend to go for the brasserie for v.f.m</text>
+      </sentence>
+      <sentence id="d680501-g186338-UID_e1-REW0:4">
+        <text>My tips: 1</text>
+      </sentence>
+      <sentence id="d680501-g186338-UID_e1-REW0:5">
+        <text> visit the website: http://www.harveynichols</text>
+      </sentence>
+      <sentence id="d680501-g186338-UID_e1-REW0:6">
+        <text> Try and get a table close to the window for the best view (or on the terrace if the weather is good enough).</text>
+        <Opinions>
+          <Opinion target="view" category="LOCATION#GENERAL" polarity="positive" from="from..." to="to..."/>
+        </Opinions>
+      </sentence>
+    </sentences>
+  </Review>
+  <Review rid="d680501-g186338-UID_e6-REW0">
+    <sentences>
+      <sentence id="d680501-g186338-UID_e6-REW0:0">
+        <text>Very enjoyable lunch</text>
+        <Opinions>
+            <Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+        </Opinions>
+      </sentence>
+      <sentence id="d680501-g186338-UID_e6-REW0:1">
+        <text>You don't go to the Oxo Tower Brasserie for a quiet meal in relaxing surroundings</text>
+        <Opinions>
+          <Opinion target="NULL" category="AMBIENCE#GENERAL" polarity="positive" from="0" to="0"/>
+        </Opinions>
+      </sentence>
+      <sentence id="d680501-g186338-UID_e6-REW0:2">
+        <text> This is a restaurant with a buzz - open plan kitchen, lots of action, tables which are close together, high ceilings and not one thing in the place to deaden the noise and chatter</text>
+        <Opinions>
+          <Opinion target="restaurant" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+          <Opinion target="NULL" category="AMBIENCE#GENERAL" polarity="positive" from="0" to="0"/>
+        </Opinions>
+      </sentence>
+      <sentence id="d680501-g186338-UID_e6-REW0:3">
+        <text> Despite all this we loved it</text>
+        <Opinions>
+          <Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+        </Opinions>
+      </sentence>
+      <sentence id="d680501-g186338-UID_e6-REW0:4">
+        <text> It makes a change sometimes to go somewhere where there is such an atmosphere and not eat in a restaurant where you feel you cannot talk above a whisper</text>
+        <Opinions>
+          <Opinion target="atmosphere" category="AMBIENCE#GENERAL" polarity="positive" from="0" to="0"/>
+        </Opinions>
+      </sentence>
+      <sentence id="d680501-g186338-UID_e6-REW0:5">
+        <text> The choice on the menu and the meals served were very good whilst the service was excellent - attentive, friendly and not rushed</text>
+        <Opinions>
+          <Opinion target="menu" category="FOOD#STYLE_OPTIONS" polarity="positive" from="from..." to="to..."/>
+          <Opinion target="meals" category="FOOD#QUALITY" polarity="positive" from="from..." to="to..."/>
+          <Opinion target="service" category="SERVICE#GENERAL" polarity="positive" from="from..." to="to..."/>
+        </Opinions>
+      </sentence>
+      <sentence id="d680501-g186338-UID_e6-REW0:6">
+        <text> However, we would be so happy to return again, especially in better weather where you could sit outside on the terrace.</text>
+        <Opinions>
+          <Opinion target="NULL" category="AMBIENCE#GENERAL" polarity="positive" from="0" to="0"/>
+        </Opinions>
+      </sentence>
+    </sentences>
+  </Review>
+  <Review rid="d680501-g186338-UID_e2-REW0">
+    <sentences>
+      <sentence id="d680501-g186338-UID_e2-REW0:0">
+        <text>Quick Service and Food Quality Very Good</text>
+        <Opinions>
+          <Opinion target="Service" category="SERVICE#GENERAL" polarity="positive" from="from..." to="to..."/>
+          <Opinion target="Food" category="FOOD#QUALITY" polarity="positive" from="from..." to="to..."/>
+        </Opinions>
+      </sentence>
+      <sentence id="d680501-g186338-UID_e2-REW0:1">
+        <text>Had a quick lunch here and probably this is my 10th visit</text>
+        <Opinions>
+          <Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="from..." to="to..."/>
+        </Opinions>
+      </sentence>
+      <sentence id="d680501-g186338-UID_e2-REW0:2">
+        <text> Never tried the Brasserie yet but it looked very busy</text>
+        <Opinions>
+          <Opinion target="Brasserie" category="RESTAURANT#MISCELLANEOUS" polarity="positive" from="from..." to="to..."/>
+        </Opinions>
+      </sentence>
+      <sentence id="d680501-g186338-UID_e2-REW0:3">
+        <text>The views are superb if your a visitor to the city and its well worth being extra polite to the busy staff to ensure you get a good table.</text>
+        <Opinions>
+          <Opinion target="views" category="LOCATION#GENERAL" polarity="positive" from="from..." to="to..."/>
+          <Opinion target="staff" category="SERVICE#GENERAL" polarity="neutral" from="from..." to="to..."/>
+          <Opinion target="table" category="RESTAURANT#GENERAL" polarity="positive" from="from..." to="to..."/>
+        </Opinions>
+      </sentence>
+    </sentences>
+  </Review>
+  <Review rid="d680501-g186338-UID_e4-REW0">
+    <sentences>
+      <sentence id="d680501-g186338-UID_e4-REW0:0">
+        <text>Great Views, Good Food and a lively atmosphere.</text>
+        <Opinions>
+          <Opinion target="Views" category="LOCATION#GENERAL" polarity="positive" from="from..." to="to..."/>
+          <Opinion target="Food" category="FOOD#QUALITY" polarity="positive" from="from..." to="to..."/>
+          <Opinion target="atmosphere" category="AMBIENCE#GENERAL" polarity="positive" from="from..." to="to..."/>
+        </Opinions>
+      </sentence>
+      <sentence id="d680501-g186338-UID_e4-REW0:1">
+        <text>We visited The Oxo Tower Restaurant during March 2012 on a Saturday evening</text>
+      </sentence>
+      <sentence id="d680501-g186338-UID_e4-REW0:2">
+        <text>The restaurant is very modern looking with dimmed blue lighting and fantastic views of London and the Thames</text>
+        <Opinions>
+          <Opinion target="restaurant" category="AMBIENCE#GENERAL" polarity="positive" from="from..." to="to..."/>
+          <Opinion target="views of London and the Thames" category="LOCATION#GENERAL" polarity="positive" from="from..." to="to..."/>
+        </Opinions>
+      </sentence>
+      <sentence id="d680501-g186338-UID_e4-REW0:3">
+        <text> The service was swift and efficient without being rushed and the atmosphere was lively without any pretentiousness</text>
+        <Opinions>
+          <Opinion target="service" category="SERVICE#GENERAL" polarity="positive" from="from..." to="to..."/>
+          <Opinion target="atmosphere" category="AMBIENCE#GENERAL" polarity="positive" from="from..." to="to..."/>
+        </Opinions>
+      </sentence>
+      <sentence id="d680501-g186338-UID_e4-REW0:4">
+        <text>Overall for three courses with 2x side dishes (two people), a bottle of £46 Red, two cocktails and a bottle of water came to £208We really liked the Oxo Tower and will almost certainly return sometime in the near future.</text>
+        <Opinions>
+          <Opinion target="dishes" category="FOOD#PRICES" polarity="positive" from="0" to="0"/>
+          <Opinion target="bottle" category="DRINKS#PRICES" polarity="positive" from="0" to="0"/>
+          <Opinion target="cocktails" category="DRINKS#PRICES" polarity="positive" from="0" to="0"/>
+          <Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+        </Opinions>
+      </sentence>
+    </sentences>
+  </Review>
+  <Review rid="d680501-g186338-UID_e3-REW0">
+    <sentences>
+      <sentence id="d680501-g186338-UID_e3-REW0:0">
+        <text>Golden Oldie</text>
+      </sentence>
+      <sentence id="d680501-g186338-UID_e3-REW0:1">
+        <text>Been around the block a few times this place</text>
+      </sentence>
+      <sentence id="d680501-g186338-UID_e3-REW0:2">
+        <text> If I am honest I had never had a decent meal here previously, so I approached with much scepticism</text>
+        <Opinions>
+          <Opinion target="meal" category="FOOD#QUALITY" polarity="negative" from="from..." to="to..."/>
+        </Opinions>
+      </sentence>
+      <sentence id="d680501-g186338-UID_e3-REW0:3">
+        <text> Promising start with a good selection of local beers, including a Beavertown, mixed in with more traditional european offerings</text>
+        <Opinions>
+          <Opinion target="local beers" category="DRINKS#STYLE_OPTIONS" polarity="positive" from="from..." to="to..."/>
+        </Opinions>
+      </sentence>
+      <sentence id="d680501-g186338-UID_e3-REW0:4">
+        <text> Things took a slight turn for the worse as it took ages to get to our table, I would say a good hour</text>
+        <Opinions>
+          <Opinion target="NULL" category="SERVICE#GENERAL" polarity="negative" from="from..." to="to..."/>
+        </Opinions>
+      </sentence>
+      <sentence id="d680501-g186338-UID_e3-REW0:5">
+        <text> Anyway, worth waiting, as we got a great table near the window</text>
+        <Opinions>
+          <Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+        </Opinions>
+      </sentence>
+      <sentence id="d680501-g186338-UID_e3-REW0:6">
+        <text> Much have been inspired by the view as I went for fish and fish</text>\
+      </sentence>
+      <sentence id="d680501-g186338-UID_e3-REW0:7">
+        <text> Started with the squid, which was slightly overcooked and not quite crispy</text>
+        <Opinions>
+          <Opinion target="squid" category="FOOD#QUALITY" polarity="negative" from="from..." to="to..."/>
+        </Opinions>
+      </sentence>
+      <sentence id="d680501-g186338-UID_e3-REW0:8">
+        <text> May seem odd but this is how it turned up</text>
+      </sentence>
+      <sentence id="d680501-g186338-UID_e3-REW0:9">
+        <text> Well seasoned and fresh aioli though and plenty of fish added together to make a decent dish</text>
+        <Opinions>
+          <Opinion target="fish" category="FOOD#STYLE_OPTIONS" polarity="positive" from="from..." to="to..."/>
+          <Opinion target="dish" category="FOOD#STYLE_OPTIONS" polarity="positive" from="from..." to="to..."/>
+          <Opinion target="aioli" category="FOOD#QUALITY" polarity="positive" from="from..." to="to..."/>
+        </Opinions>
+      </sentence>
+      <sentence id="d680501-g186338-UID_e3-REW0:10">
+        <text> For the main I had the scallops, which again were plentiful, with fantastic flavours and perfectly cooked</text>
+        <Opinions>
+          <Opinion target="scallops" category="FOOD#STYLE_OPTIONS" polarity="positive" from="from..." to="to..."/>
+          <Opinion target="scallops" category="FOOD#QUALITY" polarity="positive" from="from..." to="to..."/>
+          <Opinion target="flavours" category="FOOD#QUALITY" polarity="positive" from="from..." to="to..."/>
+        </Opinions>
+      </sentence>
+      <sentence id="d680501-g186338-UID_e3-REW0:11">
+        <text> Had a really decent bottle of Chablis to wash it down with</text>
+        <Opinions>
+          <Opinion target="bottle of Chablis" category="DRINKS#QUALITY" polarity="positive" from="from..." to="to..."/>
+        </Opinions>
+      </sentence>
+      <sentence id="d680501-g186338-UID_e3-REW0:12">
+        <text> Didn't get round to dessert, which I think was a combination of the time, knocking on for 4 by the time we had finished, and the size of the portions</text>
+        <Opinions>
+          <Opinion target="portions" category="FOOD#STYLE_OPTIONS" polarity="positive" from="from..." to="to..."/>
+        </Opinions>
+      </sentence>
+      <sentence id="d680501-g186338-UID_e3-REW0:13">
+        <text> Would go back again, which I have never said on any of my other visits.</text>
+        <Opinions>
+          <Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+        </Opinions>
+      </sentence>
+    </sentences>
+  </Review>
+  <Review rid="d680501-g186338-UID_e5-REW0">
+    <sentences>
+      <sentence id="d680501-g186338-UID_e5-REW0:0">
+        <text>Table with a view</text>
+        <Opinions>
+          <Opinion target="view" category="LOCATION#GENERAL" polarity="positive" from="from..." to="to..."/>
+        </Opinions>
+      </sentence>
+      <sentence id="d680501-g186338-UID_e5-REW0:1">
+        <text>If the weather is good, make sure you ask for a table outside</text>
+      </sentence>
+      <sentence id="d680501-g186338-UID_e5-REW0:2">
+        <text> Really was amazing.</text>
+        <Opinions>
+          <Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+        </Opinions>
+      </sentence>
+    </sentences>
+  </Review>
+  <Review rid="d731402-g186338-UID_e1-REW0">
+    <sentences>
+      <sentence id="d731402-g186338-UID_e1-REW0:0">
+        <text>great for breakfast, lunch or dinner</text>
+        <Opinions>
+          <Opinion target="NULL" category="AMBIENCE#GENERAL" polarity="positive" from="0" to="0"/>
+          <Opinion target="NULL" category="RESTAURANT#MISCELLANEOUS" polarity="positive" from="0" to="0"/>
+        </Opinions>
+      </sentence>
+      <sentence id="d731402-g186338-UID_e1-REW0:1">
+        <text>Been many times, with my wife, with friends, with Clients</text>
+        <Opinions>
+          <Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+        </Opinions>
+      </sentence>
+      <sentence id="d731402-g186338-UID_e1-REW0:2">
+        <text> Beautiful room, quality food with good service</text>
+        <Opinions>
+          <Opinion target="food" category="FOOD#QUALITY" polarity="positive" from="from..." to="to..."/>
+          <Opinion target="room" category="AMBIENCE#GENERAL" polarity="positive" from="from..." to="to..."/>
+          <Opinion target="service" category="SERVICE#GENERAL" polarity="positive" from="from..." to="to..."/>
+        </Opinions>
+      </sentence>
+      <sentence id="d731402-g186338-UID_e1-REW0:3">
+        <text> If you can't beat them then join them...go with enough of you notto notice the noise.</text>
+        <Opinions>
+          <Opinion target="NULL" category="AMBIENCE#GENERAL" polarity="negative" from="0" to="0"/>
+        </Opinions>
+      </sentence>
+    </sentences>
+  </Review>
+  <Review rid="d731402-g186338-UID_e6-REW0">
+    <sentences>
+      <sentence id="d731402-g186338-UID_e6-REW0:0">
+        <text>Ate breakfast and then lunch the following day</text>
+      </sentence>
+      <sentence id="d731402-g186338-UID_e6-REW0:1">
+        <text>This restaurant is an institution</text>
+        <Opinions>
+          <Opinion target="restaurant" category="RESTAURANT#GENERAL" polarity="positive" from="from..." to="to..."/>
+        </Opinions>
+      </sentence>
+      <sentence id="d731402-g186338-UID_e6-REW0:2">
+        <text> Set in a wonderful building with a high ceiling and lots of tables it is usually full from 0700 until late at night! We just turned up for breakfast and were lucky to get a table, it was full to capacity</text>
+        <Opinions>
+          <Opinion target="building" category="LOCATION#GENERAL" polarity="positive" from="from..." to="to..."/>
+          <Opinion target="ceiling" category="AMBIENCE#GENERAL" polarity="positive" from="from..." to="to..."/>
+        </Opinions>
+      </sentence>
+      <sentence id="d731402-g186338-UID_e6-REW0:3">
+        <text> The breakfast menu has everything you could possibly want to eat</text>
+        <Opinions>
+          <Opinion target="breakfast menu" category="FOOD#STYLE_OPTIONS" polarity="positive" from="from..." to="to..."/>
+        </Opinions>
+      </sentence>
+      <sentence id="d731402-g186338-UID_e6-REW0:4">
+        <text> The quality of the ingredients were excellent and everything was beautifully cooked</text>
+        <Opinions>
+          <Opinion target="ingredients" category="FOOD#QUALITY" polarity="positive" from="from..." to="to..."/>
+          <Opinion target="NULL" category="FOOD#STYLE_OPTIONS" polarity="positive" from="0" to="0"/>
+        </Opinions>
+      </sentence>
+      <sentence id="d731402-g186338-UID_e6-REW0:5">
+        <text> We enjoyed it so much we went back for lunch the following day</text>
+        <Opinions>
+          <Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+        </Opinions>
+      </sentence>
+      <sentence id="d731402-g186338-UID_e6-REW0:6">
+        <text> The menu mainly features British dishes but it has some unusual additions as well</text>
+        <Opinions>
+          <Opinion target="menu" category="FOOD#STYLE_OPTIONS" polarity="positive" from="from..." to="to..."/>
+        </Opinions>
+      </sentence>
+      <sentence id="d731402-g186338-UID_e6-REW0:7">
+        <text> This is not fine dining but our meal was very good and the service was excellent, prompt, attentive and polite</text>
+        <Opinions>
+          <Opinion target="meal" category="FOOD#QUALITY" polarity="positive" from="from..." to="to..."/>
+          <Opinion target="service" category="SERVICE#GENERAL" polarity="positive" from="from..." to="to..."/>
+        </Opinions>
+      </sentence>
+      <sentence id="d731402-g186338-UID_e6-REW0:8">
+        <text> It is not that expensive, for London, but it does add up when you add a few extras</text>
+        <Opinions>
+          <Opinion target="NULL" category="RESTAURANT#PRICES" polarity="neutral" from="from..." to="to..."/>
+        </Opinions>
+      </sentence>
+      <sentence id="d731402-g186338-UID_e6-REW0:9">
+        <text> If you are looking for somewhere to eat with a great atmosphere and lots of hustle and bustle then this is a restaurant you should visit</text>
+        <Opinions>
+          <Opinion target="atmosphere" category="AMBIENCE#GENERAL" polarity="positive" from="from..." to="to..."/>
+          <Opinion target="restaurant" category="RESTAURANT#GENERAL" polarity="positive" from="from..." to="to..."/>
+        </Opinions>
+      </sentence>
+      <sentence id="d731402-g186338-UID_e6-REW0:10">
+        <text> We shall return on our next visit to London.</text>
+        <Opinions>
+          <Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+        </Opinions>
+      </sentence>
+    </sentences>
+  </Review>
+  <Review rid="d731402-g186338-UID_e2-REW0">
+    <sentences>
+      <sentence id="d731402-g186338-UID_e2-REW0:0">
+        <text>Best Restaurant in London for a quick meal !</text>
+        <Opinions>
+          <Opinion target="Restaurant" category="RESTAURANT#GENERAL" polarity="positive" from="from..." to="to..."/>
+        </Opinions>
+      </sentence>
+      <sentence id="d731402-g186338-UID_e2-REW0:1">
+        <text>From the doormen to all the staff they know their job backwards and a very well run room indeed which is busy morning, noon and night</text>
+        <Opinions>
+          <Opinion target="doormen" category="SERVICE#GENERAL" polarity="positive" from="from..." to="to..."/>
+          <Opinion target="staff" category="SERVICE#GENERAL" polarity="positive" from="from..." to="to..."/>
+          <Opinion target="room" category="AMBIENCE#GENERAL" polarity="positive" from="from..." to="to..."/>
+        </Opinions>
+      </sentence>
+      <sentence id="d731402-g186338-UID_e2-REW0:2">
+        <text> For value for money, it is excellent and you must go !</text>
+        <Opinions>
+          <Opinion target="NULL" category="RESTAURANT#PRICES" polarity="positive" from="from..." to="to..."/>
+        </Opinions>
+      </sentence>
+    </sentences>
+  </Review>
+  <Review rid="d731402-g186338-UID_e4-REW0">
+    <sentences>
+      <sentence id="d731402-g186338-UID_e4-REW0:0">
+        <text>A safe bet and always good</text>
+        <Opinions>
+          <Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="from..." to="to..."/>
+        </Opinions>
+      </sentence>
+      <sentence id="d731402-g186338-UID_e4-REW0:1">
+        <text>The Wolseley is like an institute in London, like a fine wine it matures with age</text>
+        <Opinions>
+          <Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="from..." to="to..."/>
+        </Opinions>
+      </sentence>
+      <sentence id="d731402-g186338-UID_e4-REW0:2">
+        <text> The location is right next door to the Ritz Hotel on Piccadilly and the dining room is large with high ceilings and period features</text>
+        <Opinions>
+          <Opinion target="location" category="LOCATION#GENERAL" polarity="positive" from="from..." to="to..."/>
+          <Opinion target="dining room" category="AMBIENCE#GENERAL" polarity="positive" from="from..." to="to..."/>
+          <Opinion target="ceilings" category="AMBIENCE#GENERAL" polarity="positive" from="from..." to="to..."/>
+        </Opinions>
+      </sentence>
+      <sentence id="d731402-g186338-UID_e4-REW0:3">
+        <text> We have visited the restaurant quite a few times now and it has never let us down</text>
+        <Opinions>
+          <Opinion target="restaurant" category="RESTAURANT#GENERAL" polarity="positive" from="from..." to="to..."/>
+        </Opinions>
+      </sentence>
+      <sentence id="d731402-g186338-UID_e4-REW0:4">
+        <text>Firstly the dress code is somewhat different to other restaurants</text>
+      </sentence>
+      <sentence id="d731402-g186338-UID_e4-REW0:5">
+        <text> Some diners will be in suits and cocktail dresses, others will be dressed Smart casual whilst the end of the day shoppers are wearing their casual everyday clothes</text>
+      </sentence>
+      <sentence id="d731402-g186338-UID_e4-REW0:6">
+        <text> However nobody looks out of place here, you can really wear what you want in this restaurant</text>
+        <Opinions>
+          <Opinion target="NULL" category="RESTAURANT#MISCELLANEOUS" polarity="positive" from="from..." to="to..."/>
+        </Opinions>
+      </sentence>
+      <sentence id="d731402-g186338-UID_e4-REW0:7">
+        <text> This is what makes the restaurant unique in my opinion, if the Wolseley was to be awarded a Michelin this would ruin the whole ambience of the place.</text>
+        <Opinions>
+          <Opinion target="restaurant" category="RESTAURANT#GENERAL" polarity="positive" from="from..." to="to..."/>
+          <Opinion target="ambience" category="AMBIENCE#GENERAL" polarity="positive" from="from..." to="to..."/>
+        </Opinions>
+      </sentence>
+      <sentence id="d731402-g186338-UID_e4-REW0:8">
+        <text>Service is always elegant without being pretentious; the atmosphere is always lively with a lovely buzz humming around the place</text>
+        <Opinions>
+          <Opinion target="Service" category="SERVICE#GENERAL" polarity="positive" from="from..." to="to..."/>
+          <Opinion target="atmosphere" category="AMBIENCE#GENERAL" polarity="positive" from="from..." to="to..."/>
+        </Opinions>
+      </sentence>
+      <sentence id="d731402-g186338-UID_e4-REW0:9">
+        <text> There if a general feeling of friendliness and I can’t quite put my finger on it’s origin</text>
+      </sentence>
+      <sentence id="d731402-g186338-UID_e4-REW0:10">
+        <text> On our last visit we had a crayfish and lobster starter, which was fantastic, the eggs benedict was the best that I had ever had and the steak dishes were better than a lot of the steakhouse offerings</text>
+        <Opinions>
+          <Opinion target="crayfish and lobster" category="FOOD#QUALITY" polarity="positive" from="from..." to="to..."/>
+          <Opinion target="eggs benedict" category="FOOD#QUALITY" polarity="positive" from="from..." to="to..."/>
+          <Opinion target="steak dishes" category="FOOD#QUALITY" polarity="positive" from="from..." to="to..."/>
+        </Opinions>
+      </sentence>
+      <sentence id="d731402-g186338-UID_e4-REW0:11">
+        <text>In all we had 2x starters, 2 mains, 1 side, 1 dessert, 2 glasses of wine and bottled water</text>
+      </sentence>
+      <sentence id="d731402-g186338-UID_e4-REW0:12">
+        <text> The bill also had a £2 cover charge per person – I really don’t understand what this is actually for when no music is being played!Anyway a great restaurant and one that we will re-visit time and time again no doubt.</text>
+        <Opinions>
+          <Opinion target="NULL" category="RESTAURANT#PRICES" polarity="negative" from="0" to="0"/>
+          <Opinion target="restaurant" category="RESTAURANT#GENERAL" polarity="positive" from="from..." to="to..."/>
+        </Opinions>
+      </sentence>
+    </sentences>
+  </Review>
+  <Review rid="d731402-g186338-UID_e3-REW0">
+    <sentences>
+      <sentence id="d731402-g186338-UID_e3-REW0:0">
+        <text>Stunning building but overburnt breakfast</text>
+        <Opinions>
+          <Opinion target="building" category="RESTAURANT#GENERAL" polarity="positive" from="from..." to="to..."/>
+        </Opinions>
+      </sentence>
+      <sentence id="d731402-g186338-UID_e3-REW0:1">
+        <text>Popped in here for breakfast on a whim over Christmas period</text>
+      </sentence>
+      <sentence id="d731402-g186338-UID_e3-REW0:2">
+        <text> Was absolutely buzzing at 11am</text>
+      </sentence>
+      <sentence id="d731402-g186338-UID_e3-REW0:3">
+        <text> Almost didn't get a table (no booking)</text>
+      </sentence>
+      <sentence id="d731402-g186338-UID_e3-REW0:4">
+        <text> I was very hungry and thirsty as I had just done a few laps of Hyde Park</text>
+      </sentence>
+      <sentence id="d731402-g186338-UID_e3-REW0:5">
+        <text> First disappointment was the fact that it took an way too long for the cappuccinos to arrive</text>
+        <Opinions>
+          <Opinion target="NULL" category="SERVICE#GENERAL" polarity="negative" from="from..." to="to..."/>
+        </Opinions>
+      </sentence>
+      <sentence id="d731402-g186338-UID_e3-REW0:6">
+        <text> They eventually turned up, when I prompted the waiter, after our food arrived</text>
+        <Opinions>
+          <Opinion target="waiter" category="SERVICE#GENERAL" polarity="neutral" from="from..." to="to..."/>
+        </Opinions>
+      </sentence>
+      <sentence id="d731402-g186338-UID_e3-REW0:7">
+        <text> I went for the full English, which was perfectly acceptable, aside from the overly charred bacon (lots of it though) and the minute portion of black pudding (the highlight taste wise)</text>
+        <Opinions>
+          <Opinion target="full English" category="FOOD#QUALITY" polarity="positive" from="from..." to="to..."/>
+          <Opinion target="bacon" category="FOOD#QUALITY" polarity="negative" from="from..." to="to..."/>
+          <Opinion target="black pudding" category="FOOD#STYLE_OPTIONS" polarity="negative" from="from..." to="to..."/>
+          <Opinion target="black pudding" category="FOOD#QUALITY" polarity="positive" from="from..." to="to..."/>
+        </Opinions>
+      </sentence>
+      <sentence id="d731402-g186338-UID_e3-REW0:8">
+        <text> My wife's French Toast though was totally decimated</text>
+        <Opinions>
+          <Opinion target="French Toast" category="FOOD#STYLE_OPTIONS" polarity="negative" from="from..." to="to..."/>
+        </Opinions>
+      </sentence>
+      <sentence id="d731402-g186338-UID_e3-REW0:9">
+        <text> I was slightly embarassed looking at this as I had been banging on about what an institution The W was</text>
+      </sentence>
+      <sentence id="d731402-g186338-UID_e3-REW0:10">
+        <text> £48 for burnt food and 2 coffees is in no way acceptable</text>
+        <Opinions>
+          <Opinion target="food" category="FOOD#QUALITY" polarity="negative" from="from..." to="to..."/>
+          <Opinion target="food" category="FOOD#PRICES" polarity="negative" from="from..." to="to..."/>
+          <Opinion target="coffees" category="DRINKS#PRICES" polarity="negative" from="from..." to="to..."/>
+        </Opinions>
+      </sentence>
+      <sentence id="d731402-g186338-UID_e3-REW0:11">
+        <text> Anyway will probably stick to lunch or dinner next time after previous positive experiences</text>
+      </sentence>
+      <sentence id="d731402-g186338-UID_e3-REW0:12">
+        <text> Building stunning.</text>
+        <Opinions>
+          <Opinion target="Building" category="RESTAURANT#GENERAL" polarity="positive" from="from..." to="to..."/>
+        </Opinions>
+      </sentence>
+    </sentences>
+  </Review>
+  <Review rid="d731402-g186338-UID_e5-REW0">
+    <sentences>
+      <sentence id="d731402-g186338-UID_e5-REW0:0">
+        <text>Perfect for Breakfast</text>
+      </sentence>
+      <sentence id="d731402-g186338-UID_e5-REW0:2">
+        <text> Love The Wolseley for its location in Central London with a great breakfast.</text>
+        <Opinions>
+          <Opinion target="location" category="LOCATION#GENERAL" polarity="positive" from="from..." to="to..."/>
+          <Opinion target="NULL" category="AMBIENCE#GENERAL" polarity="positive" from="0" to="0"/>
+        </Opinions>
+      </sentence>
+      <sentence id="d731402-g186338-UID_e5-REW0:3">
+        <text> Staff always friendly and helpful.</text>
+        <Opinions>
+          <Opinion target="Staff" category="SERVICE#GENERAL" polarity="positive" from="from..." to="to..."/>
+        </Opinions>
+      </sentence>
+    </sentences>
+  </Review>
+  <Review rid="d776287-g186338-UID_e1-REW0">
+    <sentences>
+      <sentence id="d776287-g186338-UID_e1-REW0:0">
+        <text>I was never crazy about the ivy....until the makeover....</text>
+      </sentence>
+      <sentence id="d776287-g186338-UID_e1-REW0:1">
+        <text>2 of us went for supper...we sat at the bar....the vibe is now so different after the makeover....it's much better....and will become a favourite.....the food is ok, it's not fab...but the prices are reasonable.....</text>
+        <Opinions>
+          <Opinion target="vibe" category="AMBIENCE#GENERAL" polarity="positive" from="from..." to="to..."/>
+          <Opinion target="food" category="FOOD#QUALITY" polarity="positive" from="from..." to="to..."/>
+          <Opinion target="prices" category="RESTAURANT#PRICES" polarity="positive" from="from..." to="to..."/>
+        </Opinions>
+      </sentence>
+    </sentences>
+  </Review>
+  <Review rid="d776287-g186338-UID_e6-REW0">
+    <sentences>
+      <sentence id="d776287-g186338-UID_e6-REW0:0">
+        <text>Loved it!</text>
+        <Opinions>
+          <Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+        </Opinions>
+      </sentence>
+      <sentence id="d776287-g186338-UID_e6-REW0:1">
+        <text>Our first visit here and we loved it</text>
+        <Opinions>
+          <Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+        </Opinions>
+      </sentence>
+      <sentence id="d776287-g186338-UID_e6-REW0:2">
+        <text> From the moment we arrived we found it to be a relaxing first class dining experience</text>
+        <Opinions>
+          <Opinion target="NULL" category="AMBIENCE#GENERAL" polarity="positive" from="0" to="0"/>
+        </Opinions>
+      </sentence>
+      <sentence id="d776287-g186338-UID_e6-REW0:3">
+        <text> Our table was booked for 1215 for Sunday lunch and were informed on booking that we would need to finish by 1400</text>
+      </sentence>
+      <sentence id="d776287-g186338-UID_e6-REW0:4">
+        <text> We were a little concerned that it all might be a little rushed - it was anything but</text>
+      </sentence>
+      <sentence id="d776287-g186338-UID_e6-REW0:5">
+        <text> The staff were first class, friendly and efficient whilst our lunch was simply lovely</text>
+        <Opinions>
+          <Opinion target="staff" category="SERVICE#GENERAL" polarity="positive" from="from..." to="to..."/>
+        </Opinions>
+      </sentence>
+      <sentence id="d776287-g186338-UID_e6-REW0:6">
+        <text> We don't have a single negative thing to say!! We are so looking forward to another visit.</text>
+        <Opinions>
+          <Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="from..." to="to..."/>
+        </Opinions>
+      </sentence>
+    </sentences>
+  </Review>
+  <Review rid="d776287-g186338-UID_e2-REW0">
+    <sentences>
+      <sentence id="d776287-g186338-UID_e2-REW0:0">
+        <text>Its Good but standards falling !</text>
+      </sentence>
+      <sentence id="d776287-g186338-UID_e2-REW0:1">
+        <text>Had an enjoyable dinner here, taken by friends</text>
+        <Opinions>
+          <Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="from..." to="to..."/>
+        </Opinions>
+      </sentence>
+      <sentence id="d776287-g186338-UID_e2-REW0:2">
+        <text> Have dined here many times over the years but on this occasion felt both the food standard and service had dropped</text>
+        <Opinions>
+          <Opinion target="food" category="FOOD#QUALITY" polarity="negative" from="from..." to="to..."/>
+          <Opinion target="service" category="SERVICE#GENERAL" polarity="negative" from="from..." to="to..."/>
+        </Opinions>
+      </sentence>
+      <sentence id="d776287-g186338-UID_e2-REW0:3">
+        <text> Time for a major shake up in all departments if they want to stay on top form.</text>
+        <Opinions>
+          <Opinion target="departments" category="RESTAURANT#GENERAL" polarity="negative" from="from..." to="to..."/>
+        </Opinions>
+      </sentence>
+    </sentences>
+  </Review>
+  <Review rid="d776287-g186338-UID_e4-REW0">
+    <sentences>
+      <sentence id="d776287-g186338-UID_e4-REW0:0">
+        <text>Great for celebrity spotting but nothing more</text>
+        <Opinions>
+          <Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="negative" from="from..." to="to..."/>
+        </Opinions>
+      </sentence>
+      <sentence id="d776287-g186338-UID_e4-REW0:1">
+        <text>Are you a celebrity who wants to be seen? Are you a celebrity spotter and don’t know the difference between a good and a bad restaurant? Are you a diner looking for a nice meal? If you’re the latter look elsewhere otherwise try your best to secure a reservation before telling the Facebook world who you were sat next to in the Ivy</text>
+        <Opinions>
+          <Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="negative" from="from..." to="to..."/>
+        </Opinions>
+      </sentence>
+      <sentence id="d776287-g186338-UID_e4-REW0:2">
+        <text>For the record we were sat near Ronnie Wood but we didn’t post this on Facebook :-)Firstly the place is pretentious, over hyped and extremely cramped – our table for two was so small we had to sit side by side rather than opposite each other</text>
+        <Opinions>
+          <Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="negative" from="6" to="11"/>
+          <Opinion target="place" category="AMBIENCE#GENERAL" polarity="negative" from="6" to="11"/>
+        </Opinions>
+      </sentence>
+      <sentence id="d776287-g186338-UID_e4-REW0:3">
+        <text> The waiter made us feel that we should be honoured to eat there and that we were fortunate enough to be served by such an amazing person</text>
+        <Opinions>
+          <Opinion target="waiter" category="SERVICE#GENERAL" polarity="negative" from="from..." to="to..."/>
+        </Opinions>
+      </sentence>
+      <sentence id="d776287-g186338-UID_e4-REW0:4">
+        <text>The food was medicore, the shell fish dishes had all but sold out (five on the menu and one available), the service lazy and the other diners were more interested at rubber necking who had just walked through the door rather than concentrate on their food</text>
+        <Opinions>
+          <Opinion target="food" category="FOOD#QUALITY" polarity="negative" from="from..." to="to..."/>
+          <Opinion target="fish dishes" category="FOOD#STYLE_OPTIONS" polarity="negative" from="from..." to="to..."/>
+          <Opinion target="service" category="SERVICE#GENERAL" polarity="negative" from="from..." to="to..."/>
+        </Opinions>
+      </sentence>
+      <sentence id="d776287-g186338-UID_e4-REW0:5">
+        <text>The only reason I suspect celebrities come here is convenience before heading for its members only club upstairs</text>
+      </sentence>
+      <sentence id="d776287-g186338-UID_e4-REW0:6">
+        <text> Especially as the Ivy group has a far better restaurant in J</text>
+      </sentence>
+      <sentence id="d776287-g186338-UID_e4-REW0:7">
+        <text>Sheekey which is only a few minutes walk away</text>
+      </sentence>
+      <sentence id="d776287-g186338-UID_e4-REW0:8">
+        <text> If you’re not a celeb expect a reservation at 10pm on a Tuesday night!</text>
+      </sentence>
+    </sentences>
+  </Review>
+  <Review rid="d776287-g186338-UID_e3-REW0">
+    <sentences>
+      <sentence id="d776287-g186338-UID_e3-REW0:0">
+        <text>Always delivers</text>
+        <Opinions>
+          <Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="from..." to="to..."/>
+        </Opinions>
+      </sentence>
+      <sentence id="d776287-g186338-UID_e3-REW0:1">
+        <text>I love eating here whether it's with my family for an early Sunday lunch or a boozy late lunch with clients</text>
+        <Opinions>
+          <Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="from..." to="to..."/>
+        </Opinions>
+      </sentence>
+      <sentence id="d776287-g186338-UID_e3-REW0:2">
+        <text> It's got a great, buzzy vibe no matter when you go</text>
+        <Opinions>
+          <Opinion target="vibe" category="AMBIENCE#GENERAL" polarity="positive" from="from..." to="to..."/>
+        </Opinions>
+      </sentence>
+      <sentence id="d776287-g186338-UID_e3-REW0:3">
+        <text> The staff are always friendly and efficient, particularly the door staff</text>
+        <Opinions>
+          <Opinion target="staff" category="SERVICE#GENERAL" polarity="positive" from="from..." to="to..."/>
+          <Opinion target="door staff" category="SERVICE#GENERAL" polarity="positive" from="from..." to="to..."/>
+        </Opinions>
+      </sentence>
+      <sentence id="d776287-g186338-UID_e3-REW0:4">
+        <text> The majority of the food is excellent and reasonably good value for money</text>
+        <Opinions>
+          <Opinion target="food" category="FOOD#QUALITY" polarity="positive" from="from..." to="to..."/>
+          <Opinion target="food" category="FOOD#PRICES" polarity="positive" from="from..." to="to..."/>
+        </Opinions>
+      </sentence>
+      <sentence id="d776287-g186338-UID_e3-REW0:5">
+        <text> Whilst I would stay away from the rib eye steak, I can recommend the squid salad, steak tartare and pork cheeks</text>
+        <Opinions>
+          <Opinion target="rib eye steak" category="FOOD#QUALITY" polarity="negative" from="from..." to="to..."/>
+          <Opinion target="squid salad" category="FOOD#QUALITY" polarity="positive" from="from..." to="to..."/>
+          <Opinion target="steak tartare" category="FOOD#QUALITY" polarity="positive" from="from..." to="to..."/>
+          <Opinion target="pork cheeks" category="FOOD#QUALITY" polarity="positive" from="from..." to="to..."/>
+        </Opinions>
+      </sentence>
+      <sentence id="d776287-g186338-UID_e3-REW0:6">
+        <text> Perhaps somewhat surprisingly it's reasonably well set up for taking babies with decent high chairs and buggy storage</text>
+        <Opinions>
+          <Opinion target="NULL" category="RESTAURANT#MISCELLANEOUS" polarity="positive" from="from..." to="to..."/>
+        </Opinions>
+      </sentence>
+      <sentence id="d776287-g186338-UID_e3-REW0:7">
+        <text> Recommended.</text>
+        <Opinions>
+          <Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="from..." to="to..."/>
+        </Opinions>
+      </sentence>
+    </sentences>
+  </Review>
+  <Review rid="d776287-g186338-UID_e5-REW0">
+    <sentences>
+      <sentence id="d776287-g186338-UID_e5-REW0:0">
+        <text>Consistently Good</text>
+        <Opinions>
+          <Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="from..." to="to..."/>
+        </Opinions>
+      </sentence>
+      <sentence id="d776287-g186338-UID_e5-REW0:1">
+        <text>I have been coming for years</text>
+        <Opinions>
+          <Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="from..." to="to..."/>
+        </Opinions>
+      </sentence>
+      <sentence id="d776287-g186338-UID_e5-REW0:2">
+        <text>Always good atmosphere and fun people watching.</text>
+        <Opinions>
+          <Opinion target="atmosphere" category="AMBIENCE#GENERAL" polarity="positive" from="from..." to="to..."/>
+        </Opinions>
+      </sentence>
+      <sentence id="d776287-g186338-UID_e5-REW0:3">
+        <text> The food is always good and quick.</text>
+        <Opinions>
+          <Opinion target="food" category="FOOD#QUALITY" polarity="positive" from="from..." to="to..."/>
+          <Opinion target="food" category="FOOD#STYLE_OPTIONS" polarity="positive" from="from..." to="to..."/>
+        </Opinions>
+      </sentence>
+    </sentences>
+  </Review>
+  <Review rid="d719379-g186338-UID_e1-REW0">
+    <sentences>
+      <sentence id="d719379-g186338-UID_e1-REW0:0">
+        <text>Another fab night at the oyster bar...</text>
+        <Opinions>
+          <Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="from..." to="to..."/>
+        </Opinions>
+      </sentence>
+      <sentence id="d719379-g186338-UID_e1-REW0:1">
+        <text>The food is great, the service great, the people watching great...if your tired of J Sheekey you are tired of life!My tip...don't sit near the door...it can get very drafty and cold... or the tables as you can see very little... or the toilet, the view is not great and it can be a little bit of a squeeze if you are on the end.</text>
+        <Opinions>
+          <Opinion target="food" category="FOOD#QUALITY" polarity="positive" from="from..." to="to..."/>
+          <Opinion target="service" category="SERVICE#GENERAL" polarity="positive" from="from..." to="to..."/>
+          <Opinion target="view" category="LOCATION#GENERAL" polarity="neutral" from="4" to="8"/>
+          <Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="neutral" from="from..." to="to..."/>
+        </Opinions>
+      </sentence>
+    </sentences>
+  </Review>
+  <Review rid="d719379-g186338-UID_e6-REW0">
+    <sentences>
+      <sentence id="d719379-g186338-UID_e6-REW0:0">
+        <text>Good but not the cheapest</text>
+        <Opinions>
+          <Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="from..." to="to..."/>
+          <Opinion target="NULL" category="RESTAURANT#PRICES" polarity="neutral" from="from..." to="to..."/>
+        </Opinions>
+      </sentence>
+      <sentence id="d719379-g186338-UID_e6-REW0:1">
+        <text>We ate from the £26.50 weekend lunch menu which gave a choice of three dishes over three courses</text>
+        <Opinions>
+          <Opinion target="weekend lunch menu" category="FOOD#STYLE_OPTIONS" polarity="positive" from="from..." to="to..."/>
+        </Opinions>
+      </sentence>
+      <sentence id="d719379-g186338-UID_e6-REW0:2">
+        <text> The food was tasteful and nicely cooked but it didn't have the wow factor</text>
+        <Opinions>
+          <Opinion target="food" category="FOOD#QUALITY" polarity="positive" from="from..." to="to..."/>
+        </Opinions>
+      </sentence>
+      <sentence id="d719379-g186338-UID_e6-REW0:3">
+        <text> Maybe we should have eaten from the A La Carte but having eaten from the Petrus (£30) 3 course menu the day before, which was stunning, we thought we would compare</text>
+        <Opinions>
+          <Opinion target="menu" category="FOOD#STYLE_OPTIONS" polarity="positive" from="from..." to="to..."/>
+        </Opinions>
+      </sentence>
+      <sentence id="d719379-g186338-UID_e6-REW0:4">
+        <text> Sadly J Sheekey whilst good does not compare to Petrus</text>
+        <Opinions>
+          <Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="neutral" from="from..." to="to..."/>
+        </Opinions>
+      </sentence>
+      <sentence id="d719379-g186338-UID_e6-REW0:5">
+        <text> Our waitress was first class (Eliziabeth), could not have been more friendly and helpful</text>
+        <Opinions>
+          <Opinion target="waitress" category="SERVICE#GENERAL" polarity="positive" from="from..." to="to..."/>
+        </Opinions>
+      </sentence>
+      <sentence id="d719379-g186338-UID_e6-REW0:6">
+        <text> The ambiance was fine but the room we were seated in was a little old fashioned (wood panelling and lots of old film star pictures on the walls)</text>
+        <Opinions>
+          <Opinion target="ambiance" category="AMBIENCE#GENERAL" polarity="positive" from="from..." to="to..."/>
+          <Opinion target="room" category="AMBIENCE#GENERAL" polarity="neutral" from="from..." to="to..."/>
+        </Opinions>
+      </sentence>
+      <sentence id="d719379-g186338-UID_e6-REW0:7">
+        <text> The lunch was enjoyable, the food good but for the price and reputation should have been better.</text>
+        <Opinions>
+          <Opinion target="food" category="FOOD#QUALITY" polarity="positive" from="from..." to="to..."/>
+          <Opinion target="NULL" category="RESTAURANT#PRICES" polarity="negative" from="from..." to="to..."/>
+          <Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="from..." to="to..."/>
+        </Opinions>
+      </sentence>
+    </sentences>
+  </Review>
+  <Review rid="d719379-g186338-UID_e2-REW0">
+    <sentences>
+      <sentence id="d719379-g186338-UID_e2-REW0:0">
+        <text>A Must when in Covent Garden</text>
+      </sentence>
+      <sentence id="d719379-g186338-UID_e2-REW0:1">
+        <text>Best Fish in London and on par with a Jersey classic</text>
+        <Opinions>
+          <Opinion target="Fish" category="FOOD#QUALITY" polarity="positive" from="from..." to="to..."/>
+        </Opinions>
+      </sentence>
+      <sentence id="d719379-g186338-UID_e2-REW0:2">
+        <text> Always bust and a bit noisy but has charm and its a real pleasure to visit anytime.</text>
+        <Opinions>
+          <Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="from..." to="to..."/>
+        </Opinions>
+      </sentence>
+    </sentences>
+  </Review>
+  <Review rid="d719379-g186338-UID_e4-REW0">
+    <sentences>
+      <sentence id="d719379-g186338-UID_e4-REW0:0">
+        <text>Always on form</text>
+      </sentence>
+      <sentence id="d719379-g186338-UID_e4-REW0:1">
+        <text>We have visted J</text>
+      </sentence>
+      <sentence id="d719379-g186338-UID_e4-REW0:2">
+        <text>Sheekey on a number of occasions now and it has always been fantastic</text>
+        <Opinions>
+          <Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="from..." to="to..."/>
+        </Opinions>
+      </sentence>
+      <sentence id="d719379-g186338-UID_e4-REW0:3">
+        <text>The Lobster mayonnaise is one of the best tasting lobsters we’ve ever had (and we’ve eaten Maine lobster in New England), the Scallops in the half shell are delicious and we have never been let down by the seafood</text>
+        <Opinions>
+          <Opinion target="Lobster mayonnaise" category="FOOD#QUALITY" polarity="positive" from="from..." to="to..."/>
+          <Opinion target="Scallops" category="FOOD#QUALITY" polarity="positive" from="from..." to="to..."/>
+        </Opinions>
+      </sentence>
+      <sentence id="d719379-g186338-UID_e4-REW0:4">
+        <text> Surprisingly one of the best things they sell is dessert – if they opened a bakery next door they could do a roaring trade</text>
+        <Opinions>
+          <Opinion target="dessert" category="FOOD#QUALITY" polarity="positive" from="from..." to="to..."/>
+        </Opinions>
+      </sentence>
+      <sentence id="d719379-g186338-UID_e4-REW0:5">
+        <text>Sheekey</text>
+      </sentence>
+    </sentences>
+  </Review>
+  <Review rid="d719379-g186338-UID_e3-REW0">
+    <sentences>
+      <sentence id="d719379-g186338-UID_e3-REW0:0">
+        <text>Its been too long...........</text>
+      </sentence>
+      <sentence id="d719379-g186338-UID_e3-REW0:1">
+        <text>Hadn't been here for years</text>
+      </sentence>
+      <sentence id="d719379-g186338-UID_e3-REW0:2">
+        <text> Only booked because I couldn't get a decently timed table anywhere else</text>
+        <Opinions>
+          <Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="negative" from="from..." to="to..."/>
+        </Opinions>
+      </sentence>
+      <sentence id="d719379-g186338-UID_e3-REW0:3">
+        <text> Thus I approached with slight intrepidation</text>
+      </sentence>
+      <sentence id="d719379-g186338-UID_e3-REW0:4">
+        <text> Soon as I walked through the door all fears were blown away</text>
+        <Opinions>
+          <Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="from..." to="to..."/>
+        </Opinions>
+      </sentence>
+      <sentence id="d719379-g186338-UID_e3-REW0:5">
+        <text> Service was class throughout including the cloakroom</text>
+        <Opinions>
+          <Opinion target="Service" category="SERVICE#GENERAL" polarity="positive" from="from..." to="to..."/>
+        </Opinions>
+      </sentence>
+      <sentence id="d719379-g186338-UID_e3-REW0:6">
+        <text> Fantastic mix of punters from established regulars to eager youngsters and people on business smashing the lobster fruit de mer</text>
+        <Opinions>
+          <Opinion target="NULL" category="AMBIENCE#GENERAL" polarity="positive" from="from..." to="to..."/>
+        </Opinions>
+      </sentence>
+      <sentence id="d719379-g186338-UID_e3-REW0:7">
+        <text> Was buzzing all evening</text>
+        <Opinions>
+          <Opinion target="NULL" category="AMBIENCE#GENERAL" polarity="positive" from="from..." to="to..."/>
+        </Opinions>
+      </sentence>
+      <sentence id="d719379-g186338-UID_e3-REW0:8">
+        <text> Menu isn't that big but it was so hard to chose</text>
+        <Opinions>
+          <Opinion target="Menu" category="FOOD#STYLE_OPTIONS" polarity="neutral" from="from..." to="to..."/>
+        </Opinions>
+      </sentence>
+      <sentence id="d719379-g186338-UID_e3-REW0:9">
+        <text> I kicked off with the sauted octopus with chorizo and broad beans</text>
+      </sentence>
+      <sentence id="d719379-g186338-UID_e3-REW0:10">
+        <text> Pretty simple but very effective</text>
+        <Opinions>
+          <Opinion target="NULL" category="FOOD#QUALITY" polarity="positive" from="from..." to="to..."/>
+        </Opinions>
+      </sentence>
+      <sentence id="d719379-g186338-UID_e3-REW0:11">
+        <text> Followed this up with the mixed roasted shell fish</text>
+      </sentence>
+      <sentence id="d719379-g186338-UID_e3-REW0:12">
+        <text> Standard fair with half a lobster; 3 juicy prawns and one of the scallops with chorizo off the starters menu</text>
+        <Opinions>
+          <Opinion target="prawns" category="FOOD#QUALITY" polarity="positive" from="from..." to="to..."/>
+        </Opinions>
+      </sentence>
+      <sentence id="d719379-g186338-UID_e3-REW0:13">
+        <text> The real star though was the razor clams</text>
+        <Opinions>
+          <Opinion target="razor clams" category="FOOD#QUALITY" polarity="positive" from="from..." to="to..."/>
+        </Opinions>
+      </sentence>
+      <sentence id="d719379-g186338-UID_e3-REW0:14">
+        <text> Not sure what herbs they were cooked in but they were mouth watering</text>
+        <Opinions>
+          <Opinion target="herbs" category="FOOD#QUALITY" polarity="positive" from="from..." to="to..."/>
+        </Opinions>
+      </sentence>
+      <sentence id="d719379-g186338-UID_e3-REW0:15">
+        <text> In my opinion every good fish restaurant needs a quality dessert selection</text>
+        <Opinions>
+          <Opinion target="fish restaurant" category="FOOD#QUALITY" polarity="positive" from="from..." to="to..."/>
+          <Opinion target="dessert" category="FOOD#QUALITY" polarity="positive" from="from..." to="to..."/>
+        </Opinions>
+      </sentence>
+      <sentence id="d719379-g186338-UID_e3-REW0:16">
+        <text> I couldn't help but noticing the adjacent table ordering off menu and having frozen mixed berries with hot white chocolate</text>
+      </sentence>
+      <sentence id="d719379-g186338-UID_e3-REW0:17">
+        <text> Have had this before at Scotts a fair few times</text>
+      </sentence>
+      <sentence id="d719379-g186338-UID_e3-REW0:18">
+        <text> If I have one slight reservation about the whole meal it was that the chocolate sauce could have been a little warmer</text>
+        <Opinions>
+          <Opinion target="chocolate sauce" category="FOOD#QUALITY" polarity="neutral" from="from..." to="to..."/>
+        </Opinions>
+      </sentence>
+      <sentence id="d719379-g186338-UID_e3-REW0:19">
+        <text> Minor gripe though, all the food was delicious</text>
+        <Opinions>
+          <Opinion target="food" category="FOOD#QUALITY" polarity="positive" from="from..." to="to..."/>
+        </Opinions>
+      </sentence>
+      <sentence id="d719379-g186338-UID_e3-REW0:20">
+        <text> Will be back again a lot sooner.</text>
+        <Opinions>
+          <Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="from..." to="to..."/>
+        </Opinions>
+      </sentence>
+    </sentences>
+  </Review>
+  <Review rid="d719379-g186338-UID_e5-REW0">
+    <sentences>
+      <sentence id="d719379-g186338-UID_e5-REW0:0">
+        <text>Sit at the bar</text>
+      </sentence>
+      <sentence id="d719379-g186338-UID_e5-REW0:1">
+        <text>Such a great restaurant</text>
+        <Opinions>
+          <Opinion target="restaurant" category="RESTAURANT#GENERAL" polarity="positive" from="from..." to="to..."/>
+        </Opinions>
+      </sentence>
+      <sentence id="d719379-g186338-UID_e5-REW0:2">
+        <text>Love Marco (one of the managers) he used to work at EandO.</text>
+        <Opinions>
+          <Opinion target="managers" category="SERVICE#GENERAL" polarity="positive" from="from..." to="to..."/>
+        </Opinions>
+      </sentence>
+      <sentence id="d719379-g186338-UID_e5-REW0:3">
+        <text> Perfect place for fish - always try and sit and eat at the bar.</text>
+        <Opinions>
+          <Opinion target="fish" category="FOOD#QUALITY" polarity="positive" from="from..." to="to..."/>
+        </Opinions>
+      </sentence>
+    </sentences>
+  </Review>
+</Reviews>
