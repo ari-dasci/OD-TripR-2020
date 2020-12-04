@@ -45,9 +45,8 @@ The review is split into sentences. First column presents the text of the senten
 ## Citation
 Please use the following citation:
 
-```
 Zuheros, C., Martínez-Cámara, E., Herrera-Viedma, E., & Herrera, F. Sentiment Analysis based Multi-Person Multi-criteria Decision Making methodology using natural language processing and deep learning for smarter decision aid. Case study of restaurant choice using TripAdvisor reviews. Information Fusion 68 (2021) 22-36
-```
+
 
 ## Contact
 María Cristina Zuheros Montes - czuheros@ugr.es
