@@ -10,7 +10,7 @@ Trip-2020 dataset provides the reviews of 1,428 experts evaluating 78 restaurant
 
 
 ## Reduced dataset
-For the evaluation of the **S**entiment **A**nalysis based **M**ulti-**p**erson **M**ulti-**c**riteria **D**ecision **M**aking (**SA-MpMcDM**) methodology, that it is under review, a reduction of the TripR-2020 dataset has been analyzed. Specifically, 4 restaurants are evaluated by 6 experts. The six experts evaluate the four restaurants providing a total of 24 reviews and avoiding the loss of information.
+For the evaluation of the **S**entiment **A**nalysis based **M**ulti-**p**erson **M**ulti-**c**riteria **D**ecision **M**aking (**SA-MpMcDM**) methodology, a reduction of the TripR-2020 dataset has been analyzed. Specifically, 4 restaurants are evaluated by 6 experts. The six experts evaluate the four restaurants providing a total of 24 reviews and avoiding the loss of information.
 
 The dataset is annotated following the official SemEval-2016 annotation manual. We show the main features of the annotation:
 
